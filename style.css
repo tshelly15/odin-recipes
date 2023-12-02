@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: navy;
+  text-decoration: underline;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  list-style-type: none;
+  background-color: navy; 
+  overflow: hidden;
+
+}
+li {
+  float: left;
+  font-size: large;
+  display: block;
+  padding: 16px;
+  text-align: center;
+
+}
+li a:hover {
+  background-color: blue;
+}
+a {
+  color: white;
+}
